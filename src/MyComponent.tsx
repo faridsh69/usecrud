@@ -1,6 +1,6 @@
 import React from "react";
 
-const MyComponent = (props) => {
+const MyComponent = (props: any) => {
   const { label } = props;
   return (
     <div>
